@@ -20,4 +20,4 @@ public class SuanFa
 		}
 		System.out.println("从"+m+"加到"+x+"的值为"+sum);
 	}
-}
+} 
